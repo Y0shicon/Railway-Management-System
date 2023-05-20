@@ -1,0 +1,43 @@
+----------------------------Instructions for use of the Program--------------------------
+
+I Non - Admin
+
+---> As a non admin user, you can view the schedules of the trains
+
+Steps:
+
+1. Learn your train via the train ticket or by looking through our data base :
+i) Click on the button next to the search bar at the bottom of the window
+ii) Look through the table for the train you are looking for
+iii) Learn the train no. in the next field
+
+2. Type the train no. in the search textbox at the bottom of the window and press 'Enter'.
+
+3. The train schedule will open up with the train no. as the window name
+
+II Admin
+
+---> As an admin user, in addition to the non-admin provileged, you can change the schedules temporarily and save the logs for it
+
+PRIMARY STEPS TO LOG IN:
+1. Press the log in button at the top-window of the window
+2. A new log in window pops up
+3. Enter the user name and password
+4. You are logged in
+
+Change to the train schedules:
+Steps:
+
+1. Open a train schedule
+2. Select the station from which you wish to change the shedule for
+3. At the top of the screen, you will find a textbox
+4. Enter the time lag (+ or -) in the textbox
+5. If the schedule is to be delayed, press 'Delay (+)'
+   If the schedule is to be advanced, press 'Advance (-)'
+
+Save Logs :
+Steps:
+1. Open a train schedule
+2. Make the appropriate changes
+3. Press the 'Save logs' button at the bottom right of the window
+

@@ -1,0 +1,5 @@
+S. No.,Station Code,Station Name,Route No.,Arrival Time,Departure Time,Halt Time (In Minutes),Distance,Day
+1,MMCT,MUMBAI CENTRAL,1,Source,23:25,--,0,1
+2,ADI,AHMEDABAD JN,1,5:55,6:15,20:00,491,2
+3,SUNR,SURENDRANAGAR,1,8:24,8:34,10:00,622,2
+4,RJT,RAJKOT JN,1,10:55,--,--,738,2
